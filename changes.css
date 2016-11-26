@@ -1,0 +1,27 @@
+#wrap
+{
+	box-shadow: gray 0 10px 10px 1px;
+}
+
+#content
+{
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+	padding: 0;
+}
+
+#colophon
+{
+	box-shadow: 12px 0px 10px -10px gray, -12px 0px 10px -10px gray,gray 0 10px 12px -10px
+}
+
+#footer
+{
+	margin-bottom: 50px;
+}
+
+.item
+{
+	padding: 15px 20px 10px 20px;
+	border-bottom: 1px solid #cacaca;
+}
